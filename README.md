@@ -98,6 +98,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 
-This project is licensed under the MIT License.
 
 *Built with Java, Spring Boot, and ❤️*
